@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tvolchko" alt="tvolchko" /></a> </p>
 
-- 🔭 I’m currently working on [A little Weather app](https://effervescent-nougat-670956.netlify.app/)
+- 🔭 I’m currently working on building a little browser game with React!
 
 - 🌱 I’m currently learning **Data structures and algorithms**
 
